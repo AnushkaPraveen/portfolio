@@ -7,9 +7,9 @@ export const Hero = () => {
         <section className={styles.container} >
             <div className={styles.content}>
                 <h1 className={styles.title}>
-                    Hi, I,m Ada
+                    Hi, I,m Anushka Praveen
                 </h1>
-                <p>I'm a full-stack developer with 5 years of experience</p>
+                <p className={styles.description}>I'm a frontend developer with 1 years of experience specializing in React and React Native..Reach out if you'd like to learn more!</p>
                 <a href="mailto:anushkapraveen98@gmail.com" className={styles.contactBtn}>Contact Me</a>
             </div>
             <img src={getImageUrl("hero/heroImage.png")} alt="me" className={styles.heroImg} />
