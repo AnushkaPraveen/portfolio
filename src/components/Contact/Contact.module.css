@@ -61,4 +61,11 @@
   .links {
     align-items: center;
   }
+  .link{
+    flex-direction: column;
+  }
+
+  .link a {
+    font-size: 20px;
+  }
 }
