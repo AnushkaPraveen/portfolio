@@ -36,7 +36,7 @@
     gap: 11px;
 }
 
-.skillImageConatiner {
+.skillImageContainer {
     background-color: var(--color-secondary);
     border-radius: 100%;
     display: flex;
@@ -46,7 +46,7 @@
     height: 120px;
 }
 
-.skillImageConatiner img {
+.skillImageContainer img {
     width: 75px;
 }
 

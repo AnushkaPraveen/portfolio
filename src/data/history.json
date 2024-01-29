@@ -1,29 +1,37 @@
 [
+  {
+    "role": "Associate Software Engineer",
+    "organisation": "Intervest Software Technologies (Private) Limited",
+    "startDate": "Mar, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "imageSrc": "history/intervest.png"
+  },
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
-      "endDate": "Present",
+      "role": "Mobile Application Developer",
+      "organisation": "BYTEFORGED",
+      "startDate": "Mar, 2023",
+      "endDate": "Jul 2023",
       "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
+      "imageSrc": "history/byteforged.jpeg"
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
+      "role": "Software Engineer Intern",
+      "organisation": "Intervest Software Technologies (Private) Limited",
+      "startDate": "Jan, 2022",
+      "endDate": "Oct, 2023",
       "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
+      "imageSrc": "history/intervest.png"
     },
     {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
+      "role": "Undergraduate",
+      "organisation": "University of Moratuwa Sri Lanka",
+      "startDate": "Nov, 2018",
+      "endDate": "Dec, 2023",
       "experiences": [
         "Worked on component library",
         "Helped create UI components"
       ],
-      "imageSrc": "history/netflix.png"
+      "imageSrc": "history/uom.png"
     }
   ]
