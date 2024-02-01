@@ -1,4 +1,3 @@
-import React from "react";
 import { getImageUrl } from "../../../utils";
 import styles from "./About.module.css";
 
@@ -9,7 +8,7 @@ export const About = () => {
                 About
             </h2>
             <div className={styles.content}>
-                <img src={getImageUrl("about/aboutImage.png")} alt="Sitting with laptop" className={styles.aboutImage} />
+                <img src={getImageUrl("about/aboutImage.jpg")} alt="Sitting with laptop" className={styles.aboutImage} />
                 <ul className={styles.aboutItems}>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/frontend.png")} alt="cursor" />
