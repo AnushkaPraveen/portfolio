@@ -1,26 +1,57 @@
-[
-    {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+[{
+        "title": "Employee Management System",
+        "imageSrc": "projects/project.png",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": ["React", "Express", "Node", "MySQL"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+        "title": "Shopping App",
+        "imageSrc": "projects/project.png",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": ["React", "Typescript", "Bootstrap", "CSS"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+        "title": "Bleacherbook",
+        "imageSrc": "projects/bleacherbook.jpg",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": ["React Native", "Expo", "NativeBase"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Notifee Libaray Testing App",
+        "imageSrc": "projects/notifee.png",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": ["React Native", "Notifee"],
+        "demo": "https://github.com/AnushkaPraveen/RN-Notifee",
+        "source": "https://github.com/AnushkaPraveen/RN-Notifee"
+    },
+    {
+        "title": "Beauty Clinic Web Site",
+        "imageSrc": "projects/beauty.jpg",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": ["HTML", "CSS", "PHP", "JavaScript"],
+        "demo": "https://anushkapraveen.github.io/Cedars-Beauty-Clinic-website/",
+        "source": "https://github.com/AnushkaPraveen"
+    },
+    {
+        "title": "TechFlare Website",
+        "imageSrc": "projects/techflare.jpg",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": ["HTML", "CSS", "Bootstrap"],
+        "demo": "https://fit18-api.github.io/TechFlare/",
+        "source": "https://github.com/AnushkaPraveen/TechFlare"
+    },
+    {
+        "title": "HackMoral 3.0 Website",
+        "imageSrc": "projects/hackmoral.jpg",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": ["HTML", "CSS", "Bootstrap"],
+        "demo": "http://intecs.itfac.mrt.ac.lk/hackmoral/hackmoral3#0%20",
+        "source": "https://github.com/AnushkaPraveen"
     }
-  ]
+]
