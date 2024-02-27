@@ -1,17 +1,25 @@
 [{
         "title": "Employee Management System",
-        "imageSrc": "projects/project.png",
+        "imageSrc": "projects/ems.png",
         "description": "This is a project made to learn the latest languages by building an app.",
         "skills": ["React", "Express", "Node", "MySQL"],
-        "demo": "https://www.example.com",
+        "demo": "",
         "source": "https://www.github.com"
     },
     {
+      "title": "Finance Tracker",
+      "imageSrc": "projects/Finance.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "MySQL"],
+      "demo": "",
+      "source": "https://www.github.com"
+  },
+    {
         "title": "Shopping App",
-        "imageSrc": "projects/project.png",
+        "imageSrc": "projects/shopping.png",
         "description": "This is a project made to learn the latest languages by building an app.",
         "skills": ["React", "Typescript", "Bootstrap", "CSS"],
-        "demo": "https://www.example.com",
+        "demo": "",
         "source": "https://www.github.com"
     },
     {
@@ -19,7 +27,7 @@
         "imageSrc": "projects/bleacherbook.jpg",
         "description": "This is a project made to learn the latest languages by building an app.",
         "skills": ["React Native", "Expo", "NativeBase"],
-        "demo": "https://www.example.com",
+        "demo": "",
         "source": "https://www.github.com"
     },
     {
